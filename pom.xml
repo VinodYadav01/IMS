@@ -23,9 +23,9 @@
 		<project.scm.id>gitserver</project.scm.id>
 	</properties>
 	<scm>
-			<url>https://github.com/Vamsee1988/ims-</url>
-			<connection>scm:git:https://github.com/Vamsee1988/ims-.git</connection>
-			<developerConnection>scm:git:https://github.com/Vamsee1988/ims-.git</developerConnection>
+			<url>https://github.com/Vamsee1988/ims</url>
+			<connection>scm:git:https://github.com/Vamsee1988/ims.git</connection>
+			<developerConnection>scm:git:https://github.com/Vamsee1988/ims.git</developerConnection>
 	  
     <tag>HEAD</tag>
   </scm>
